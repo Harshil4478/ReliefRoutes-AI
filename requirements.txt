@@ -4,4 +4,4 @@ folium
 pandas
 altair
 requests
-anthropic
+google-genai
