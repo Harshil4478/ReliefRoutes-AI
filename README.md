@@ -5,9 +5,13 @@ Emergency-response platform for floods and cyclones. It lets an operator log eme
 **Theme:** Climate, Resource Infrastructure & Global Supply Resilience
 
 ## Team
-- Harshil (GitHub: [Harshil4478](https://github.com/Harshil4478))
-- Anitha
-- <add any other member / college / graduation year>
+**College:** IIIT Tiruchirappalli
+
+| Name | Roll No. | GitHub |
+|---|---|---|
+| V V Harshil | 231168 | [Harshil4478](https://github.com/Harshil4478) |
+| J Anitha | 231125 | (https://github.com/anitha-373)|
+| S Hanumanth Roa | 231156 |https://github.com/hanumantha-hue |
 
 ## Features
 - **Dashboard** - live overview of emergencies, stock and dispatches.
